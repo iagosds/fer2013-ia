@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+kaggle
+streamlit
+opencv-python
